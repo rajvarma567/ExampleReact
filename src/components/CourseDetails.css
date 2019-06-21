@@ -1,0 +1,8 @@
+.color {
+    position: absolute;
+    padding: 9px 8px;
+    color: darkgrey;
+    transition: 0.3s;
+    left: 0;
+    top: 0;
+}
